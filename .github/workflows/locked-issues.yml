@@ -7,4 +7,4 @@ jobs:
   check-team:
     runs-on: ubuntu-latest
     steps:
-      - uses: jricher/workflow-integration@v0.0.2
+      - uses: jricher/workflow-integration@v0.0.3
