@@ -7,4 +7,4 @@ jobs:
   check-team:
     runs-on: ubuntu-latest
     steps:
-      - uses: jricher/workflow-indegration
+      - uses: jricher/workflow-indegration@v0.0.0
