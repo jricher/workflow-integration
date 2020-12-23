@@ -1,7 +1,5 @@
 name: 'Issue team test'
 description: 'Test that the issue was created by the team'
-inputs:
-outputs:
 runs:
   using: 'node12'
   main: 'index.js'
