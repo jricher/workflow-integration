@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0",
+    "@mheap/action-router": "^1.2.0",
+    "actions-toolkit": "^4.0.0"
+  }
+}
