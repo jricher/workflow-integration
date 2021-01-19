@@ -1,5 +1,6 @@
 name: Issues by Team Members Only
 on:
+  pull_request:
   issues:
     types: [opened]
 
