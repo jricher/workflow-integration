@@ -7,4 +7,5 @@ jobs:
   check-team:
     runs-on: ubuntu-latest
     steps:
-      - uses: jricher/workflow-integration@v0.0.3
+      #- uses: jricher/workflow-integration@v0.0.3
+      - uses: hmarr/debug-action@v1.0.0
